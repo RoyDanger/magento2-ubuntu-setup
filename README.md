@@ -10,8 +10,8 @@ Step 5: Install Composer
 Step 6: Install Magento 2
 Step 7: Run Magento in Browser
 Step 1: Install Apache2
-Updating the Package
 
+## Updating the Package
 sudo apt update
 
 ## Installing Apache2
